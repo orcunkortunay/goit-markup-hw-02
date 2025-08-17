@@ -1,0 +1,153 @@
+body {
+    font-family: "Roboto", "Verdana", "Helvetica Neue", sans-serif;
+    color: #434455;
+    background-color: #ffffff;
+    line-height: 1.5;
+}
+
+h1,
+h2,
+h3 {
+    letter-spacing: 0.02em;
+    font-weight: 700;
+    color: #2E2F42;
+}
+
+h1 {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: left;
+}
+
+h2 {
+    font-size: 36px;
+    line-height: 1;
+    text-align: left;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1;
+    text-align: left;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header a {
+    text-decoration: none;
+    color: #2E2F42;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+header nav ul {
+    list-style-type: none;
+}
+
+header nav a:hover,
+header nav a:focus {
+    color: #404BBF;
+}
+
+.header-contacts {
+    list-style-type: none;
+}
+
+.header-contacts a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.header-contacts a:hover,
+.header-contacts a:focus {
+    color: #404BBF;
+}
+
+.banner {
+    background-color: #2E2F42;
+    text-align: center;
+}
+
+.banner h1 {
+    color: #ffffff;
+    text-align: center;
+}
+
+.order-button {
+    background-color: #4D5AE5;
+    letter-spacing: 0.04em;
+    line-height: 1.5;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.big-button:hover,
+.big-button:focus {
+    background-color: #404BBF;
+}
+
+.features h2 {
+    text-align: left;
+}
+
+.features ul {
+    list-style-type: none;
+}
+
+.team {
+    background-color: #F4F4FD;
+}
+
+.team ul {
+    list-style-type: none;
+}
+
+.team h2,
+h3 {
+    text-align: left;
+}
+
+.portfolio-list {
+    list-style-type: none;
+}
+
+.portfolio-item {
+    background-color: #ffffff;
+}
+
+.portfolio-item-title {
+    font-size: 20px;
+    font-weight: 500;
+    text-align: left;
+    color: #2E2F42;
+}
+
+.portfolio-item-category {
+    font-size: 16px;
+    text-align: left;
+    color: #434455;
+}
+
+footer {
+    background-color: #2E2F42;
+    color: #ffffff;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.logo-web {
+    color: #4D5AE5;
+}
