@@ -73,6 +73,7 @@ header nav a:focus {
     text-align: center;
 }
 
+
 .banner h1 {
     color: #ffffff;
     text-align: center;
@@ -88,8 +89,8 @@ header nav a:focus {
     cursor: pointer;
 }
 
-.big-button:hover,
-.big-button:focus {
+.order-button:hover,
+.order-button:focus {
     background-color: #404BBF;
 }
 
