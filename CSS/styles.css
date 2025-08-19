@@ -37,11 +37,18 @@ p {
     line-height: 1.5;
 }
 
-header a {
+.logo {
     text-decoration: none;
     color: #2E2F42;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: 700;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    line-height: 1.16667;
+}
+
+header nav {
+    font-size: 16px;
 }
 
 header nav ul {
@@ -59,8 +66,8 @@ header nav a:focus {
 
 .header-contacts a {
     text-decoration: none;
-    font-size: 12px;
-    font-weight: 500;
+    font-size: 16px;
+    font-weight: 400;
 }
 
 .header-contacts a:hover,
@@ -140,12 +147,18 @@ footer {
     background-color: #2E2F42;
     color: #ffffff;
     text-align: center;
+    font-size: 16px;
+    letter-spacing: 0.02em;
 }
 
 footer a {
     text-decoration: none;
-    font-size: 12px;
-    font-weight: 700;
+        color: #2E2F42;
+        font-size: 18px;
+        font-weight: 700;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        line-height: 1.16667;
     color: #ffffff;
 }
 
